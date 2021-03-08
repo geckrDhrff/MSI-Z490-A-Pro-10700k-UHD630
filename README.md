@@ -4,12 +4,15 @@
   
   cpu睿频 正常；
   显卡 正常；
-  亮度 正常；
+  网卡 正常；
+  调节亮度 正常；
+  升级系统 正常；
+  
   声卡 不正常；
   USB3.0 不正常；
   
   
-  主要参考以下文档
+  主要参考以下文档：
   https://osxinfo.net/konu/basarili-kurulum-msi-z490-a-pro-i7-10700k-uhd-630-macos-big-sur.19140/
   
   https://www.bilibili.com/video/BV18V41187JZ
