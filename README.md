@@ -11,5 +11,7 @@
   
   主要参考以下文档
   https://osxinfo.net/konu/basarili-kurulum-msi-z490-a-pro-i7-10700k-uhd-630-macos-big-sur.19140/
+  
   https://www.bilibili.com/video/BV18V41187JZ
+  
   https://dortania.github.io/OpenCore-Install-Guide/ktext.html#legacy-users
