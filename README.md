@@ -1,6 +1,7 @@
 # MSI-Z490-A-Pro-10700k-UHD630
   ![desktop snap](https://user-images.githubusercontent.com/26639931/110332039-d0988300-805a-11eb-933d-18ed6ecd0de6.png)
   
+  使用 OC 引导
   
   cpu睿频 正常；
   显卡 正常；
