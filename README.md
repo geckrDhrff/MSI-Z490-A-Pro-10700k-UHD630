@@ -1,5 +1,6 @@
 # MSI-Z490-A-Pro-10700k-UHD630-Intel AX200
-  ![desktop snap](https://user-images.githubusercontent.com/26639931/110332039-d0988300-805a-11eb-933d-18ed6ecd0de6.png)
+  ![desktop snap](https://user-images.githubusercontent.com/26639931/111028132-b6cab780-842f-11eb-980c-0dece94cb65a.png)
+
   
   使用 OC 引导
   
