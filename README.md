@@ -1,4 +1,4 @@
-# MSI-Z490-A-Pro-10700k-UHD630
+# MSI-Z490-A-Pro-10700k-UHD630-Intel AX200
   ![desktop snap](https://user-images.githubusercontent.com/26639931/110332039-d0988300-805a-11eb-933d-18ed6ecd0de6.png)
   
   使用 OC 引导
@@ -7,7 +7,10 @@
   显卡 正常；
   网卡 正常；
   声卡 正常；
+  无线网卡 正常；
+  蓝牙 正常；  
   升级系统 正常；
+
   USB3.0 部分正常(机箱上3.0与USB3.2不正常，type-c没试过)；
   
   
