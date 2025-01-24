@@ -1,6 +1,7 @@
 
 # MSI-Z490-A-Pro-10700k-UHD630-Intel AX200
-  ![截屏2025-01-24 13 44 46](https://github.com/user-attachments/assets/5ce81884-1d6c-495a-972a-68f973aa6281)
+![IMG_20250124_135815](https://github.com/user-attachments/assets/f1d8c80d-4cdb-4818-8917-c9f08656693c)
+
   
   使用 OC 引导 
   系统Sequoia15.2
