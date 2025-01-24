@@ -1,7 +1,6 @@
 # MSI-Z490-A-Pro-10700k-UHD630-Intel AX200
   ![desktop snap](https://user-images.githubusercontent.com/26639931/111028132-b6cab780-842f-11eb-980c-0dece94cb65a.png)
   
-  ![alt text](file:///%E6%88%AA%E5%B1%8F2025-01-24%2013.44.46.png)
   
   使用 OC 引导 
   
