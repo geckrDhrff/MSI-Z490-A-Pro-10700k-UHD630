@@ -1,9 +1,8 @@
+
 # MSI-Z490-A-Pro-10700k-UHD630-Intel AX200
-  ![desktop snap](https://user-images.githubusercontent.com/26639931/111028132-b6cab780-842f-11eb-980c-0dece94cb65a.png)
-  
+  ![截屏2025-01-24 13 44 46](https://github.com/user-attachments/assets/5ce81884-1d6c-495a-972a-68f973aa6281)
   
   使用 OC 引导 
-  
   系统Sequoia15.2
   
   cpu睿频 正常；
